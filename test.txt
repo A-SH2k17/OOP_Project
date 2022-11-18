@@ -2,10 +2,6 @@ Ali
 marven
 shahd
 jana
-<<<<<<< Updated upstream
-mohamed
-=======
 mohamed
 Dddf
-dfhsakldlghjk
->>>>>>> Stashed changes
+Dfhsakldlghjk
